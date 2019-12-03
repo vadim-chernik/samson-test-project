@@ -1,2 +1,1 @@
 # samson-test-project
-test
